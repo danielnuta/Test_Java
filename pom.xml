@@ -138,7 +138,23 @@
     </dependency>
 
 
+    <!-- https://mvnrepository.com/artifact/org.hamcrest/hamcrest -->
+    <dependency>
+        <groupId>org.hamcrest</groupId>
+        <artifactId>hamcrest</artifactId>
+        <version>3.0</version>
+        <scope>test</scope>
+    </dependency>
 
+
+    <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+    <dependency>
+        <groupId>io.appium</groupId>
+        <artifactId>java-client</artifactId>
+        <version>9.1.0</version>
+    </dependency>
+
+    
 
 </dependencies>
 
